@@ -1,8 +1,8 @@
 BRIVA PURI
 
-Founder of EIGEN · AI & Backend Systems Builder
-
-EIGEN — Automating Impact.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Founder+of+EIGEN;AI+%26+Backend+Systems+Builder;Building+ARCHER;Building+ALLY;Automating+Impact." />
+</p>
 
 I build intelligent software systems focused on AI, backend engineering, automation, and real-world problem solving.
 

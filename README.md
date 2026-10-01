@@ -108,11 +108,6 @@ Backend Engineering · AI Systems · Automation · Data Systems · Robotics · C
 
 I focus on building systems end-to-end — from architecture and backend logic to deployment and real-world use.
 
----
-
-GITHUB ACTIVITY
-
-<!-- Dynamic GitHub statistics / activity visualization -->---
 
 BRIVA PURI
 

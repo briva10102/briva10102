@@ -1,116 +1,83 @@
-BRIVA PURI
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Founder+of+EIGEN;AI+%26+Backend+Systems+Builder;Building+ARCHER;Building+ALLY;Automating+Impact." />
-</p>
+# BRIVA PURI
 
-I build intelligent software systems focused on AI, backend engineering, automation, and real-world problem solving.
+### Founder of EIGEN · AI & Backend Systems Builder
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&size=22&duration=3000&pause=1200&color=FFFFFF&center=true&vCenter=true&width=650&lines=Founder+of+EIGEN;AI+%26+Backend+Systems+Builder;Building+ARCHER;Building+ALLY;Automating+Impact." />
+
+<br>
+
+<img src="./eigen_robot_smile.gif" width="280" alt="EIGEN robot">
+
+<br>
+
+**AI · Backend Systems · Automation · Data Intelligence · Robotics**
+
+</div>
 
 ---
 
-EIGEN
+## EIGEN
+
+**EIGEN — Automating Impact.**
 
 EIGEN is a technology startup focused on building intelligent systems that automate real-world work.
 
-Services
+### Services
 
-- Workflow Automation — Automating repetitive business processes and operations.
-- AI Integration — Integrating AI into existing products, workflows, and business systems.
-- Data & Document Intelligence — Turning unstructured data and documents into searchable, structured, actionable information.
+**Workflow Automation**  
+Automating repetitive business processes and operational workflows.
+
+**AI Integration**  
+Integrating AI into existing products, workflows, and business systems.
+
+**Data & Document Intelligence**  
+Turning unstructured data and documents into searchable, structured and actionable information.
 
 ---
 
-FEATURED PROJECTS
+# FEATURED PROJECT
 
-ARCHER
+## ARCHER
 
-Enterprise AI Knowledge System
+### Enterprise AI Knowledge System
 
-Production Ready
+**Production Ready**
 
 ARCHER is an enterprise AI assistant that allows organizations to interact with their internal knowledge through natural language.
 
-What makes it different
+### What distinguishes ARCHER
 
-Permission-aware RAG.
+**Permission-aware RAG.**
 
-ARCHER doesn't treat every document as universally accessible. Retrieval is tied to user authorization, ensuring that users can retrieve information only from documents they are permitted to access.
+ARCHER connects information retrieval with authorization, ensuring that users can retrieve information only from documents they are permitted to access.
 
-Stack
-
-"Python" · "FastAPI" · "PostgreSQL" · "ChromaDB" · "Sentence Transformers" · "Gemini" · "React" · "Vite" · "Tailwind CSS" · "JWT" · "Docker"
-
-Core
-
-- Enterprise document search
-- Role-based access control
-- Document-level permissions
-- RAG pipeline
-- Semantic search
-- PDF processing
-- Vector search
-- LLM-powered responses
-- Conversation context
-
----
-
-ALLY
-
-Personal Virtual Agent
-
-Under Construction
-
-ALLY is a personal AI agent designed to become a persistent digital layer for memory, information, and everyday tasks.
-
-It is intended to understand and retain context from things such as:
-
-"Notes" · "Documents" · "URLs" · "Images" · "Screenshots" · "Conversations" · "Tasks"
-
-What makes it different
-
-Persistent personal context.
-
-ALLY is designed around the idea that an AI assistant should remember the information you give it, retrieve the right context when needed, and help you actually act on it.
-
-Stack
-
-"Python" · "FastAPI" · "PostgreSQL" · "pgvector" · "LLMs" · "Embeddings" · "React" · "Docker"
-
----
-
-TECHNOLOGY
-
-Languages
-
-"Python" · "JavaScript" · "SQL" · "C/C++"
-
-Backend
-
-"FastAPI" · "REST APIs" · "PostgreSQL" · "MySQL" · "JWT"
-
-AI
-
-"LLMs" · "RAG" · "Embeddings" · "Vector Search" · "AI Agents" · "Computer Vision"
-
-Frontend
-
-"React" · "Vite" · "Tailwind CSS"
-
-Infrastructure
-
-"Docker" · "Git" · "GitHub" · "Linux" · "Cloud"
-
----
-
-ENGINEERING FOCUS
-
-Backend Engineering · AI Systems · Automation · Data Systems · Robotics · Computer Vision
-
-I focus on building systems end-to-end — from architecture and backend logic to deployment and real-world use.
-
-
-BRIVA PURI
-
-Founder & Builder — EIGEN
-
-Automating Impact.
+```text
+                         USER
+                           │
+                           ▼
+                  ┌─────────────────┐
+                  │ Authentication  │
+                  │ & Authorization │
+                  └────────┬────────┘
+                           │
+                           ▼
+                  ┌─────────────────┐
+                  │ Permission-    │
+                  │ Aware Retrieval │
+                  └────────┬────────┘
+                           │
+                           ▼
+                  ┌─────────────────┐
+                  │ Semantic Search │
+                  │   ChromaDB      │
+                  └────────┬────────┘
+                           │
+                           ▼
+                  ┌─────────────────┐
+                  │   Gemini LLM    │
+                  └────────┬────────┘
+                           │
+                           ▼
+                       RESPONSE

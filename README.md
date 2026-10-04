@@ -5,16 +5,8 @@
 ### Building systems. Automating impact.
 
 
-<a href="https://linkedin.com/in/briva-puri">LinkedIn</a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="https://github.com/briva10102">GitHub</a>
-<img src="./robot_animation_no_eigen.gif" width="500"/>
-
 </div>
 
-
-
----
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/briva10102/briva10102/output/github-snake.svg" width="95%"/>
@@ -36,12 +28,10 @@
 
 <br>
 
----
 
 
 <br>
 
----
 
 <h1 align="center">
   <span style="color:#C8A951;">PROJECTS</span>
@@ -107,9 +97,9 @@ Intelligent Workflow Automation<br>
 
 <br>
 
----
 
-<h2 align="center">ABOUT ME</h2>
+
+
 
 <p align="center">
   B.Tech student focused on <strong>backend engineering, AI systems,

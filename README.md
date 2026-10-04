@@ -1,107 +1,83 @@
 <div align="center">
 
-# BRIVA PURI
+<img src="./assets/briva-name.svg" width="620"/>
 
 ### Building systems. Automating impact.
 
-<img src="./robot_animation_no_eigen.gif" width="520"/>
+<br>
+
+<img src="./robot_animation_no_eigen.gif" width="500"/>
 
 </div>
 
 <br>
 
 ---
-## ACTIVITY
+
+## TECH STACK
 
 <div align="center">
+
+<img src="./assets/tech-backend.svg" width="48%"/>
+<img src="./assets/tech-ai.svg" width="48%"/>
+
+<img src="./assets/tech-data.svg" width="48%"/>
+<img src="./assets/tech-integration.svg" width="48%"/>
+
+<img src="./assets/tech-tools.svg" width="48%"/>
+
+</div>
+
+<br>
+
+---
+
+## ACTIVITY
 
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/briva10102/briva10102/output/github-snake.svg" width="95%"/>
 
-
-
 </div>
-## PROJECTS
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### ARCHER
-**Enterprise AI Assistant · EIGEN**
-
-Permission-aware enterprise RAG system for secure retrieval across company knowledge.
-
-`FastAPI` `PostgreSQL` `ChromaDB` `Gemini`
-
-**Production readiness in progress**
-
-</td>
-
-<td width="50%" valign="top">
-
-### EMAIL AUTOMATION
-**Intelligent Workflow · EIGEN**
-
-Backend-driven email automation for ingestion, classification, information extraction and approved response generation.
-
-`FastAPI` `Gmail API` `PostgreSQL` `Gemini`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### AQUAPREDICT
-**Dam Break Inundation Modelling · SIH 2026**
-
-Research-driven framework exploring monitoring, event detection and event-triggered hydrodynamic simulation using DualSPHysics and Delft3D.
-
-`Hydrodynamics` `GIS` `DualSPHysics` `Delft3D`
-
-</td>
-
-<td width="50%" valign="top">
-
-### MEDBUZZ
-**Smart IoT Medicine Dispensing System**
-
-Automated medicine dispenser with voice reminders, load-cell verification and Wi-Fi notifications.
-
-`Raspberry Pi` `IoT` `Embedded Systems` `AutoCAD`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### PIXELS & FRAMES
-**Interactive Computer Vision Platform**
-
-Real-time computer vision platform featuring gesture recognition, object tracking, smile detection, air canvas and driver attention monitoring.
-
-`Python` `OpenCV`
-
-</td>
-
-<td width="50%" valign="top">
-
-### CURRENTLY BUILDING
-
-Backend systems, AI workflows and software designed to move beyond prototypes.
-
-`Backend` `AI Systems` `Automation` `RAG`
-
-</td>
-</tr>
-</table>
+<br>
 
 ---
 
+## PROJECTS
 
+### EIGEN
+**Building**
+
+AI/RAG Systems · Workflow Automation · Custom AI Chatbots · Business Automation
+
+Building AI systems, backend infrastructure and intelligent automation designed to solve real-world problems.
+
+**ARCHER** — Enterprise AI Assistant  
+**Email Automation** — Intelligent Workflow Automation
+
+<br>
+
+### AQUAPREDICT
+**SIH 2026**
+
+Researching a generalized, event-triggered hydrodynamic framework for dam-break inundation prediction and decision support.
+
+<br>
+
+### MEDBUZZ
+**Completed**
+
+Designed an IoT medicine-dispensing system combining automated verification, voice reminders and connected notifications.
+
+<br>
+
+### PIXELS & FRAMES
+**Completed**
+
+Built a real-time computer vision platform combining multiple interactive vision systems into a single application.
+
+<br>
 
 ---
 
@@ -109,77 +85,19 @@ Backend systems, AI workflows and software designed to move beyond prototypes.
 
 <div align="center">
 
-### EIGEN — Automating Impact
+**EIGEN — Automating Impact**
 
-**Engineering Intelligence for Next-Gen Systems.**
+Engineering Intelligence for Next-Gen Systems.
 
-</div>
+<br><br>
 
-EIGEN builds AI systems, backend infrastructure and intelligent automation designed to solve real-world problems.
-
-**ARCHER** · **Workflow Automation** · **Custom AI Systems** · **Business Automation**
-
-<div align="center">
-
-[VISIT EIGEN](https://eigen.forgesystems.workers.dev/)
+<a href="https://eigen.forgesystems.workers.dev/">
+VISIT EIGEN
+</a>
 
 </div>
 
----
-
-## STACK
-
-<table align="center">
-<tr>
-<td align="center" width="180">
-
-**BACKEND**
-
-Python  
-FastAPI  
-REST APIs  
-JWT  
-RBAC
-
-</td>
-
-<td align="center" width="180">
-
-**AI / ML**
-
-Gemini API  
-RAG  
-SentenceTransformers  
-ChromaDB  
-OpenCV
-
-</td>
-
-<td align="center" width="180">
-
-**DATA**
-
-PostgreSQL  
-SQLAlchemy  
-Alembic  
-SQL  
-Pydantic
-
-</td>
-
-<td align="center" width="180">
-
-**SYSTEMS**
-
-Gmail API  
-OAuth 2.0  
-Git  
-GitHub  
-Postman
-
-</td>
-</tr>
-</table>
+<br>
 
 ---
 
@@ -189,13 +107,15 @@ Postman
 St. Francis Institute of Technology, Mumbai  
 **2024–2028 · CGPA 9.42 / 10**
 
----
+<br>
 
 <div align="center">
 
-[LinkedIn](https://linkedin.com/in/briva-puri) · [GitHub](https://github.com/briva10102)
+<a href="https://linkedin.com/in/briva-puri">LinkedIn</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://github.com/briva10102">GitHub</a>
 
-<br>
+<br><br>
 
 `Build → Break → Debug → Improve`
 

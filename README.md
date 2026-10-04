@@ -110,7 +110,7 @@ then building them to be useful, secure and scalable.
 ---
 
 <div align="center">
-<a href="https://linkedin.com/in/briva-puri">LinkedIn</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://linkedin.com/in/briva-puri">LinkedIn</a>
 &nbsp;&nbsp;·&nbsp;&nbsp;
 
 </div>

@@ -5,7 +5,9 @@
 ### Building systems. Automating impact.
 
 <br>
-
+<a href="https://linkedin.com/in/briva-puri">LinkedIn</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://github.com/briva10102">GitHub</a>
 <img src="./robot_animation_no_eigen.gif" width="500"/>
 
 </div>
@@ -41,81 +43,82 @@
 
 ---
 
-<h2 align="center">
+<h1 align="center">
   <span style="color:#C8A951;">PROJECTS</span>
-</h2>
+</h1>
+
+<br>
 
 <h2 align="center">
-  <span style="color:#C111111;">EIGEN</span>
+  <span style="color:#C11111;">EIGEN</span>
 </h2>
-**Building**
 
-AI/RAG Systems · Workflow Automation · Custom AI Chatbots · Business Automation
-
-Building AI systems, backend infrastructure and intelligent automation designed to solve real-world problems.
-
-**ARCHER** — Enterprise AI Assistant  
-**Email Automation** — Intelligent Workflow Automation
+<p align="center">
+  <strong>Automating Impact</strong><br>
+  Building AI systems, backend infrastructure and intelligent automation
+  designed to solve real-world problems.
+</p>
 
 <br>
 
-### AQUAPREDICT
-**SIH 2026**
+<table align="center" width="90%">
+<tr>
+<td width="50%" align="center">
 
-Researching a generalized, event-triggered hydrodynamic framework for dam-break inundation prediction and decision support.
+<strong>ARCHER</strong><br>
+Enterprise AI Assistant<br>
+<sub>BUILDING — Production Readiness</sub>
+
+</td>
+
+<td width="50%" align="center">
+
+<strong>EMAIL AUTOMATION</strong><br>
+Intelligent Workflow Automation<br>
+<sub>BUILDING</sub>
+
+</td>
+</tr>
+</table>
 
 <br>
 
-### MEDBUZZ
-**Completed**
-
-Designed an IoT medicine-dispensing system combining automated verification, voice reminders and connected notifications.
+<p align="center">
+  <strong>AQUAPREDICT</strong><br>
+  Researching a generalized, event-triggered hydrodynamic framework for
+  dam-break inundation prediction and decision support.
+</p>
 
 <br>
 
-### PIXELS & FRAMES
-**Completed**
+<p align="center">
+  <strong>MEDBUZZ</strong><br>
+  Designed an IoT medicine-dispensing system combining automated verification,
+  voice reminders and connected notifications.
+</p>
 
-Built a real-time computer vision platform combining multiple interactive vision systems into a single application.
+<br>
+
+<p align="center">
+  <strong>PIXELS &amp; FRAMES</strong><br>
+  Built a real-time computer vision platform combining multiple interactive
+  vision systems into a single application.
+</p>
 
 <br>
 
 ---
 
+<h2 align="center">ABOUT ME</h2>
 
-
-<div align="center">
-
-**EIGEN — Automating Impact**
-
-Engineering Intelligence for Next-Gen Systems.
-
+<p align="center">
+  B.Tech student focused on <strong>backend engineering, AI systems,
+  automation and intelligent software</strong>.<br><br>
+  I like understanding how systems work beneath the interface —
+  then building them to be useful, secure and scalable.
+</p>
 <br><br>
 
 
-
-</div>
-
-<br>
-
----
-
-## EDUCATION
-
-**B.Tech — Electronics & Computer Science**  
-St. Francis Institute of Technology, Mumbai  
-**2024–2028 · CGPA 9.42 / 10**
-
-<br>
-
-<div align="center">
-
-<a href="https://linkedin.com/in/briva-puri">LinkedIn</a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="https://github.com/briva10102">GitHub</a>
-
-<br><br>
-
-`Build → Break → Debug → Improve`
 
 </div>

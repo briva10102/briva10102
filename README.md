@@ -53,12 +53,12 @@
 
 <p align="left">
   <strong>ARCHER — Enterprise RAG Assistant</strong>
-  &nbsp;&nbsp;<sub>BUILDING · PRODUCTION READINESS</sub>
+  &nbsp;&nbsp;<sub>[BUILDING · PRODUCTION READINESS]</sub>
 </p>
 
 <p align="left">
   <strong>EMAIL AUTOMATION — Intelligent Workflow Automation</strong>
-  &nbsp;&nbsp;<sub>BUILDING</sub>
+  &nbsp;&nbsp;<sub>[BUILDING]</sub>
 </p>
 
 <br>

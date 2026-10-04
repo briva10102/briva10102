@@ -15,7 +15,11 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/briva10102/briva10102/output/github-contribution-grid-snake.svg" width="95%"/>
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/briva10102/briva10102/output/github-snake.svg" width="95%"/>
+
+
 
 </div>
 ## PROJECTS

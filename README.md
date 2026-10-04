@@ -4,128 +4,195 @@
 
 ### Building systems. Automating impact.
 
-<img src="./robot_animation_no_eigen.gif" width="500"/>
+<img src="./robot_animation_no_eigen.gif" width="520"/>
 
 </div>
 
----
-
-## About
-
-I'm a B.Tech student focused on **backend engineering, AI systems, automation, and intelligent software**.
-
-I like understanding how systems work beneath the interface — then building them to be useful, secure, and scalable.
+<br>
 
 ---
 
-## Currently Building
-
-### 🏹 ARCHER — Enterprise AI Assistant
-**EIGEN**
-
-A permission-aware enterprise RAG system that ensures users retrieve only information they are authorized to access.
-
-`RAG` · `RBAC` · `FastAPI` · `PostgreSQL` · `ChromaDB` · `Gemini`
-
-**Status:** Production Readiness
-
----
-
-### 📧 Email Workflow Automation
-**EIGEN**
-
-Building backend-driven email workflows for automated ingestion, classification, information extraction, decision-making and approved response generation.
-
-`Gmail API` · `FastAPI` · `PostgreSQL` · `Gemini` · `OAuth 2.0`
-
----
-
-## EIGEN
-
-**EIGEN — Automating Impact**
-
-Building AI systems and software designed to solve real-world problems across:
-
-**AI / RAG Systems** · **Workflow Automation** · **Custom AI Chatbots** · **Business Automation**
-
-[Visit EIGEN →](https://eigen.forgesystems.workers.dev/)
-
----
-
-## Tech Stack
+## PROJECTS
 
 <table>
 <tr>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=python" width="45"/><br>
-Python
+<td width="50%" valign="top">
+
+### ARCHER
+**Enterprise AI Assistant · EIGEN**
+
+Permission-aware enterprise RAG system for secure retrieval across company knowledge.
+
+`FastAPI` `PostgreSQL` `ChromaDB` `Gemini`
+
+**Production readiness in progress**
+
 </td>
 
-<td align="center">
-<img src="https://skillicons.dev/icons?i=fastapi" width="45"/><br>
-FastAPI
-</td>
+<td width="50%" valign="top">
 
-<td align="center">
-<img src="https://skillicons.dev/icons?i=postgres" width="45"/><br>
-PostgreSQL
-</td>
+### EMAIL AUTOMATION
+**Intelligent Workflow · EIGEN**
 
-<td align="center">
-<img src="https://skillicons.dev/icons?i=java" width="45"/><br>
-Java
-</td>
+Backend-driven email automation for ingestion, classification, information extraction and approved response generation.
 
-<td align="center">
-<img src="https://skillicons.dev/icons?i=git" width="45"/><br>
-Git
-</td>
+`FastAPI` `Gmail API` `PostgreSQL` `Gemini`
 
-<td align="center">
-<img src="https://skillicons.dev/icons?i=github" width="45"/><br>
-GitHub
 </td>
 </tr>
 
 <tr>
-<td align="center">SQLAlchemy</td>
-<td align="center">Alembic</td>
-<td align="center">Gmail API</td>
-<td align="center">Gemini</td>
-<td align="center">ChromaDB</td>
-<td align="center">OpenCV</td>
+<td width="50%" valign="top">
+
+### AQUAPREDICT
+**Dam Break Inundation Modelling · SIH 2026**
+
+Research-driven framework exploring monitoring, event detection and event-triggered hydrodynamic simulation using DualSPHysics and Delft3D.
+
+`Hydrodynamics` `GIS` `DualSPHysics` `Delft3D`
+
+</td>
+
+<td width="50%" valign="top">
+
+### MEDBUZZ
+**Smart IoT Medicine Dispensing System**
+
+Automated medicine dispenser with voice reminders, load-cell verification and Wi-Fi notifications.
+
+`Raspberry Pi` `IoT` `Embedded Systems` `AutoCAD`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### PIXELS & FRAMES
+**Interactive Computer Vision Platform**
+
+Real-time computer vision platform featuring gesture recognition, object tracking, smile detection, air canvas and driver attention monitoring.
+
+`Python` `OpenCV`
+
+</td>
+
+<td width="50%" valign="top">
+
+### CURRENTLY BUILDING
+
+Backend systems, AI workflows and software designed to move beyond prototypes.
+
+`Backend` `AI Systems` `Automation` `RAG`
+
+</td>
 </tr>
 </table>
 
 ---
 
-## Other Builds
+## ACTIVITY
 
-### 🌊 AquaPredict
-Dam-break inundation modelling research for **SIH 2026**, exploring hydrodynamic simulation, data-source latency, monitoring strategies and DualSPHysics–Delft3D workflows.
+<div align="center">
 
-### 🤖 MedBuzz
-IoT-based automated medicine dispensing system using Raspberry Pi, load-cell verification, voice reminders and Wi-Fi notifications.
+<img src="https://github.com/briva10102/briva10102/blob/output/github-contribution-grid-snake.svg" width="95%"/>
 
-### 👁 Pixels & Frames
-Interactive computer vision platform built with OpenCV featuring gesture recognition, object tracking, smile detection, air canvas and driver attention monitoring.
+</div>
 
 ---
 
-## What I'm Interested In
+## EIGEN
 
-**Backend Engineering · AI Systems · Automation · RAG · Computer Vision · Intelligent Hardware**
+<div align="center">
+
+### EIGEN — Automating Impact
+
+**Engineering Intelligence for Next-Gen Systems.**
+
+</div>
+
+EIGEN builds AI systems, backend infrastructure and intelligent automation designed to solve real-world problems.
+
+**ARCHER** · **Workflow Automation** · **Custom AI Systems** · **Business Automation**
+
+<div align="center">
+
+[VISIT EIGEN](https://eigen.forgesystems.workers.dev/)
+
+</div>
+
+---
+
+## STACK
+
+<table align="center">
+<tr>
+<td align="center" width="180">
+
+**BACKEND**
+
+Python  
+FastAPI  
+REST APIs  
+JWT  
+RBAC
+
+</td>
+
+<td align="center" width="180">
+
+**AI / ML**
+
+Gemini API  
+RAG  
+SentenceTransformers  
+ChromaDB  
+OpenCV
+
+</td>
+
+<td align="center" width="180">
+
+**DATA**
+
+PostgreSQL  
+SQLAlchemy  
+Alembic  
+SQL  
+Pydantic
+
+</td>
+
+<td align="center" width="180">
+
+**SYSTEMS**
+
+Gmail API  
+OAuth 2.0  
+Git  
+GitHub  
+Postman
+
+</td>
+</tr>
+</table>
+
+---
+
+## EDUCATION
+
+**B.Tech — Electronics & Computer Science**  
+St. Francis Institute of Technology, Mumbai  
+**2024–2028 · CGPA 9.42 / 10**
+
+---
+
+<div align="center">
+
+[LinkedIn](https://linkedin.com/in/briva-puri) · [GitHub](https://github.com/briva10102)
 
 <br>
 
-<a href="https://linkedin.com/in/briva-puri">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+`Build → Break → Debug → Improve`
 
-<a href="https://github.com/briva10102">
-<img src="https://img.shields.io/badge/GitHub-Explore-000000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br><br>
-
-> Build → Break → Debug → Improve
+</div>

@@ -100,17 +100,19 @@
 
 
 <br>
+---
 <p>
 B.Tech student focused on <strong>backend engineering, AI systems,
 automation and intelligent software</strong>.<br>
 I like understanding how systems work beneath the interface ~
 then building them to be useful, secure and scalable.
 </p>
+---
+
 <div align="center">
 <a href="https://linkedin.com/in/briva-puri">LinkedIn</a>
 &nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="https://github.com/briva10102">GitHub</a>
-<img src="./robot_animation_no_eigen.gif" width="500"/>
+
 </div>
 
 

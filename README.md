@@ -4,7 +4,7 @@
 
 ### Building systems. Automating impact.
 
-<br>
+
 <a href="https://linkedin.com/in/briva-puri">LinkedIn</a>
 &nbsp;&nbsp;·&nbsp;&nbsp;
 <a href="https://github.com/briva10102">GitHub</a>
@@ -12,7 +12,7 @@
 
 </div>
 
-<br>
+
 
 ---
 <div align="center">

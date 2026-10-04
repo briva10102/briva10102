@@ -98,12 +98,12 @@
 
 <div align="center">
 
-<h2>ABOUT ME</h2>
+
 
 <p>
 B.Tech student focused on <strong>backend engineering, AI systems,
 automation and intelligent software</strong>.<br>
-I like understanding how systems work beneath the interface —
+I like understanding how systems work beneath the interface ~
 then building them to be useful, secure and scalable.
 </p>
 

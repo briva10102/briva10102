@@ -11,7 +11,13 @@
 <br>
 
 ---
+## ACTIVITY
 
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/briva10102/briva10102/output/github-contribution-grid-snake.svg" width="95%"/>
+
+</div>
 ## PROJECTS
 
 <table>
@@ -91,13 +97,7 @@ Backend systems, AI workflows and software designed to move beyond prototypes.
 
 ---
 
-## ACTIVITY
 
-<div align="center">
-
-<img src="https://github.com/briva10102/briva10102/blob/output/github-contribution-grid-snake.svg" width="95%"/>
-
-</div>
 
 ---
 

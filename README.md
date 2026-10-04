@@ -13,8 +13,12 @@
 <br>
 
 ---
+<div align="center">
 
-## TECH STACK
+<img src="https://raw.githubusercontent.com/briva10102/briva10102/output/github-snake.svg" width="95%"/>
+
+</div>
+
 
 <div align="center">
 
@@ -32,21 +36,18 @@
 
 ---
 
-## ACTIVITY
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/briva10102/briva10102/output/github-snake.svg" width="95%"/>
-
-</div>
 
 <br>
 
 ---
 
-## PROJECTS
+<h2 align="center">
+  <span style="color:#C8A951;">PROJECTS</span>
+</h2>
 
-### EIGEN
+<h2 align="center">
+  <span style="color:#C111111;">EIGEN</span>
+</h2>
 **Building**
 
 AI/RAG Systems · Workflow Automation · Custom AI Chatbots · Business Automation
@@ -81,7 +82,7 @@ Built a real-time computer vision platform combining multiple interactive vision
 
 ---
 
-## EIGEN
+
 
 <div align="center">
 
@@ -91,9 +92,7 @@ Engineering Intelligence for Next-Gen Systems.
 
 <br><br>
 
-<a href="https://eigen.forgesystems.workers.dev/">
-VISIT EIGEN
-</a>
+
 
 </div>
 

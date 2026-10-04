@@ -1,0 +1,35 @@
+<svg width="700" height="260" viewBox="0 0 700 260"
+xmlns="http://www.w3.org/2000/svg">
+
+<rect x="4" y="4" width="692" height="252" rx="18"
+fill="#080808" stroke="#292929" stroke-width="2"/>
+
+<text x="35" y="55"
+font-family="monospace"
+font-size="18"
+font-weight="700"
+fill="#ffffff">
+INTEGRATION
+</text>
+
+<text x="35" y="105" font-family="monospace" font-size="17" fill="#bdbdbd">
+Gmail API
+</text>
+
+<text x="190" y="105" font-family="monospace" font-size="17" fill="#bdbdbd">
+OAuth 2.0
+</text>
+
+<text x="35" y="150" font-family="monospace" font-size="17" fill="#bdbdbd">
+Google Gemini
+</text>
+
+<text x="190" y="150" font-family="monospace" font-size="17" fill="#bdbdbd">
+REST
+</text>
+
+<text x="35" y="205" font-family="monospace" font-size="13" fill="#666">
+APIS · AUTH · WORKFLOW AUTOMATION
+</text>
+
+</svg>

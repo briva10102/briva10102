@@ -1,0 +1,39 @@
+<svg width="700" height="260" viewBox="0 0 700 260"
+xmlns="http://www.w3.org/2000/svg">
+
+<rect x="4" y="4" width="692" height="252" rx="18"
+fill="#080808" stroke="#292929" stroke-width="2"/>
+
+<text x="35" y="55"
+font-family="monospace"
+font-size="18"
+font-weight="700"
+fill="#ffffff">
+DATA
+</text>
+
+<text x="35" y="105" font-family="monospace" font-size="17" fill="#bdbdbd">
+PostgreSQL
+</text>
+
+<text x="200" y="105" font-family="monospace" font-size="17" fill="#bdbdbd">
+SQLAlchemy
+</text>
+
+<text x="390" y="105" font-family="monospace" font-size="17" fill="#bdbdbd">
+Alembic
+</text>
+
+<text x="35" y="150" font-family="monospace" font-size="17" fill="#bdbdbd">
+SQL
+</text>
+
+<text x="200" y="150" font-family="monospace" font-size="17" fill="#bdbdbd">
+Pydantic
+</text>
+
+<text x="35" y="205" font-family="monospace" font-size="13" fill="#666">
+STORAGE · ORM · MIGRATIONS
+</text>
+
+</svg>

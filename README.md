@@ -62,7 +62,15 @@
 </p>
 
 <br>
+<p align="center">
+  <strong>PIXELS &amp; FRAMES</strong>
+</p>
 
+<p align="left">
+  Built a real-time computer vision platform combining multiple interactive
+  vision systems into a single application.
+</p>
+<br>
 <p align="center">
   <strong>AQUAPREDICT</strong>
 </p>
@@ -83,16 +91,7 @@
   voice reminders and connected notifications.
 </p>
 
-<br>
 
-<p align="center">
-  <strong>PIXELS &amp; FRAMES</strong>
-</p>
-
-<p align="left">
-  Built a real-time computer vision platform combining multiple interactive
-  vision systems into a single application.
-</p>
 
 <br>
 

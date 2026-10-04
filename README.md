@@ -33,14 +33,15 @@
 <br>
 
 
-<h1 align="center">
-  <span style="color:#C8A951;">PROJECTS</span>
-</h1>
+<div align="center">
 
+<img src="./assets/projects-heading.svg" width="240"/>
 
-<h2 align="center">
-  <span style="color:#C11111;">EIGEN</span>
-</h2>
+</div>
+
+<br>
+
+<h2 align="center">EIGEN</h2>
 
 <p align="center">
   <strong>Automating Impact</strong><br>
@@ -48,53 +49,65 @@
   designed to solve real-world problems.
 </p>
 
-<table align="center" width="90%">
-<tr>
-<td width="50%" align="center">
+<br>
 
-<strong>ARCHER</strong><br>
-Enterprise AI Assistant<br>
-<sub>BUILDING — Production Readiness</sub>
+<p align="left">
+  <strong>ARCHER — Enterprise RAG Assistant</strong>
+  &nbsp;&nbsp;<sub>BUILDING · PRODUCTION READINESS</sub>
+</p>
 
-</td>
+<p align="left">
+  <strong>EMAIL AUTOMATION — Intelligent Workflow Automation</strong>
+  &nbsp;&nbsp;<sub>BUILDING</sub>
+</p>
 
-<td width="50%" align="center">
-
-<strong>EMAIL AUTOMATION</strong><br>
-Intelligent Workflow Automation<br>
-<sub>BUILDING</sub>
-
-</td>
-</tr>
-</table>
-
+<br>
 
 <p align="center">
-  <strong>AQUAPREDICT</strong><br>
+  <strong>AQUAPREDICT</strong>
+</p>
+
+<p align="left">
   Researching a generalized, event-triggered hydrodynamic framework for
   dam-break inundation prediction and decision support.
 </p>
 
+<br>
+
 <p align="center">
-  <strong>MEDBUZZ</strong><br>
+  <strong>MEDBUZZ</strong>
+</p>
+
+<p align="left">
   Designed an IoT medicine-dispensing system combining automated verification,
   voice reminders and connected notifications.
 </p>
 
+<br>
 
 <p align="center">
-  <strong>PIXELS &amp; FRAMES</strong><br>
+  <strong>PIXELS &amp; FRAMES</strong>
+</p>
+
+<p align="left">
   Built a real-time computer vision platform combining multiple interactive
   vision systems into a single application.
 </p>
 
-
-<p align="center">
-  B.Tech student focused on <strong>backend engineering, AI systems,
-  automation and intelligent software</strong>.<br><br>
-  I like understanding how systems work beneath the interface —
-  then building them to be useful, secure and scalable.
-</p>
 <br>
 
+<div align="center">
+
+<h2>ABOUT ME</h2>
+
+<p>
+B.Tech student focused on <strong>backend engineering, AI systems,
+automation and intelligent software</strong>.<br>
+I like understanding how systems work beneath the interface —
+then building them to be useful, secure and scalable.
+</p>
+
 </div>
+
+
+

@@ -37,7 +37,6 @@
   <span style="color:#C8A951;">PROJECTS</span>
 </h1>
 
-<br>
 
 <h2 align="center">
   <span style="color:#C11111;">EIGEN</span>
@@ -48,8 +47,6 @@
   Building AI systems, backend infrastructure and intelligent automation
   designed to solve real-world problems.
 </p>
-
-<br>
 
 <table align="center" width="90%">
 <tr>
@@ -71,7 +68,6 @@ Intelligent Workflow Automation<br>
 </tr>
 </table>
 
-<br>
 
 <p align="center">
   <strong>AQUAPREDICT</strong><br>
@@ -79,26 +75,18 @@ Intelligent Workflow Automation<br>
   dam-break inundation prediction and decision support.
 </p>
 
-<br>
-
 <p align="center">
   <strong>MEDBUZZ</strong><br>
   Designed an IoT medicine-dispensing system combining automated verification,
   voice reminders and connected notifications.
 </p>
 
-<br>
 
 <p align="center">
   <strong>PIXELS &amp; FRAMES</strong><br>
   Built a real-time computer vision platform combining multiple interactive
   vision systems into a single application.
 </p>
-
-<br>
-
-
-
 
 
 <p align="center">
@@ -107,8 +95,6 @@ Intelligent Workflow Automation<br>
   I like understanding how systems work beneath the interface —
   then building them to be useful, secure and scalable.
 </p>
-<br><br>
-
-
+<br>
 
 </div>

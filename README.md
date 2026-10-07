@@ -33,23 +33,6 @@
 <br>
 
 
-<div align="center">
-
-<img src="./assets/projects-heading.svg" width="240"/>
-
-</div>
-
-<br>
-
-<h2 align="center">EIGEN</h2>
-
-<p align="center">
-  <strong>Automating Impact</strong><br>
-  Building AI systems, backend infrastructure and intelligent automation
-  designed to solve real-world problems.
-</p>
-
-<br>
 
 
 B.Tech student focused on <strong>backend engineering, AI systems,

@@ -33,15 +33,6 @@
 <br>
 
 
-
-
-B.Tech student focused on <strong>backend engineering, AI systems,
-automation and intelligent software</strong>.<br>
-I like understanding how systems work beneath the interface ~
-then building them to be useful, secure and scalable.
-</p>
----
-
 <div align="center">
 &nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://linkedin.com/in/briva-puri">LinkedIn</a>
 &nbsp;&nbsp;·&nbsp;&nbsp;
